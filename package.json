@@ -1,12 +1,10 @@
 {
   "name": "@npmtuanmap/velit-esse-velit-magnam",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": " ",
   "main": "index.js",
   "author": "tuan149",
   "license": "MIT",
-  "dependencies": {
-  },
   "keywords": [
     "airbnb",
     "uninstall",

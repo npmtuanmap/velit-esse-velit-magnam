@@ -1,6 +1,6 @@
 {
   "name": "@npmtuanmap/velit-esse-velit-magnam",
-  "version": "11.20.216",
+  "version": "11.20.217",
   "description": " ",
   "main": "index.js",
   "author": "tuan149",
@@ -664,5 +664,5 @@
   "bugs": {
     "url": "https://github.com/npmtuanmap/velit-esse-velit-magnam/issues"
   },
-  "packageManager": "yarn@4.5.3"
+  "packageManager": "yarn@4.6.0"
 }
